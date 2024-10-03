@@ -1,7 +1,7 @@
 # Gestion de Stock Multi-Dépôts - SODIM 🏢📦
 
-![Node.js](https://img.shields.io/badge/Node.js-v14.x-green?logo=node.js)
-![Angular](https://img.shields.io/badge/Angular-v12-red?logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-v22.3.0.x-green?logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-v18.0.7-red?logo=angular)
 ![Express.js](https://img.shields.io/badge/Express.js-^4.17.1-black?logo=express)
 ![Sequelize](https://img.shields.io/badge/Sequelize-v6-blue?logo=sequelize)
 ![MySQL](https://img.shields.io/badge/MySQL-v8.0.23-blue?logo=mysql)
